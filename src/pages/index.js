@@ -12,9 +12,15 @@ export default () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{title || 'Gatsby Simplefolio'}</title>
+        <title>{title || 'Sara Palacios | Portfolio'}</title>
         <html lang={lang || 'en'} />
-        <meta name="description" content={description || 'Gatsby Simplefolio'} />
+        <meta name="description" content={description || 'Sara Palacios | Portfolio'} />
+        <meta property='og:title' content='Sara Palacios | Portfolio' />
+  <meta property='og:image'
+    content='https://raw.githubusercontent.com/SaraPalacioss/portfolio/main/src/images/screenshoot.png?token=AQTVNFDC2YPBNKRCBL4K4GDABXCNE' />
+  <meta property='og:description'
+    content='Sara Palacios | Portfolio' />
+  <meta property='og:url' content='https://www.sarapalacios.me' />
       </Helmet>
       <App />
     </>
