@@ -21,8 +21,8 @@ export const aboutData = {
   paragraphOne: `"After working for more than 10 years as technician for IT companies I found in Web Development a real passion. I'm a technology lover and I do enjoy achieving new skills that let me find the better way to solve challenging issues. The learning process never ends!"`,
   paragraphTwo: `TECH STACK:`,
   paragraphThree: 'JavaScript | React | NodeJS | Express | MongoDB | Mongoose | Handlebars | API REST | Git | GitHub | ES6 | HTML | CSS',
-  resume: 'https://drive.google.com/file/d/1WPQMTadC6JiBGIMbZgcU_vQmVsVAwspp/view?usp=sharing', 
-  resume2: 'https://drive.google.com/file/d/1hR2TtqO3df5LNl7UUCySIwEB-cIBEMT2/view?usp=sharing'// if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1dne34zF5dbEZLaWbDsoLvWCfh0De39TZ/view?usp=sharing', 
+  resume2: 'https://drive.google.com/file/d/1mHsOxWyvBqc4aTfDZ63Snc-frdcaoOqy/view?usp=sharing'// if no resume, the button will not show up
 };
 
 // PROJECTS DATA
