@@ -23,7 +23,6 @@ export const aboutData = {
   paragraphThree: 'JavaScript | React | NodeJS | Express | MongoDB | Mongoose | Handlebars | API REST | Git | GitHub | ES6 | HTML | CSS.',
   resume: 'https://drive.google.com/file/d/1WPQMTadC6JiBGIMbZgcU_vQmVsVAwspp/view?usp=sharing', 
   resume2: 'https://drive.google.com/file/d/1hR2TtqO3df5LNl7UUCySIwEB-cIBEMT2/view?usp=sharing'// if no resume, the button will not show up
-// if no resume, the button will not show up
 };
 
 // PROJECTS DATA
