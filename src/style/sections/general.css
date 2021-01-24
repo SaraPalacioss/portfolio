@@ -1,5 +1,9 @@
 .text-style {
-  text-decoration: underline;
+  font-weight: bold;
+}
+
+.text-style-stack {
+  color: rgb(106, 23, 109);
   font-weight: bold;
 }
 

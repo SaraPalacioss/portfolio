@@ -42,11 +42,12 @@ const About = () => {
                   {paragraphOne ||
                     `After working for more than 10 years as technician for IT companies I found in Web Development a real passion. I'm a technology lover and I do enjoy achieving new skills that let me find the better way to solve challenging issues. The learning process never ends!`}
                 </p>
+              
                 <p className="about-wrapper__info-text text-style">
                   {paragraphTwo ||
-                    'Tech stack'}
+                    'TECH STACK'}
                 </p>
-                <p className="about-wrapper__info-text">
+                <p className="about-wrapper__info-text text-style-stack">
                   {paragraphThree || 'JavaScript | React | NodeJS | Express | MongoDB | Mongoose | Handlebars | API REST | Git | GitHub | ES6 | HTML | CSS'}
                 </p>
               
