@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'cocktails.png',
     title: 'All City Cocktails',
-    info: `Full stack project using ExpressJs, NodeJs, Handlebars, MongoDB, Axios, API Rest & Bootstrap made in 1 week for Ironhack bootcamp`,
+    info: `Full stack project using ExpressJs, NodeJs, Handlebars, MongoDB, Axios, API Rest & Bootstrap made in 1 week for Ironhack bootcamp.`,
     info2: '',
     url: 'https://all-city-cocktails.herokuapp.com/',
     repo: 'https://github.com/SaraPalacioss/project-all-city-cocktails', // if no repo, the button will not show up
