@@ -13,7 +13,7 @@ Sigue estas instrucciones para poder obtener una copia del proyecto en funcionam
 
 ## Despliegue 📦
 
-Consulta la documentación oficial de Netlify para obtener toda la información:
+Consulta la documentación oficial de Netlify, React y Gatsby para obtener toda la información:
 
 * [Netlify](https://www.netlify.com) 
 
