@@ -54,7 +54,7 @@ export const projectsData = [
     info2: '',
     url: 'https://sarapalacioss.github.io/funko-hollywood-trivial',
     repo: 'https://github.com/SaraPalacioss/funko-hollywood-trivial', // if no repo, the button will not show up
-  },
+  }
 ];
 
 // CONTACT DATA
@@ -63,6 +63,67 @@ export const contactData = {
   // btn: '+34 601327667',
   email: 'contact@sarapalacios.me',
 };
+
+
+// OTHER PROJECTS DATA
+export const otherProjectsData = [
+  {
+    id: nanoid(),
+    img: 'film.png',
+    title: 'Buscador de letras',
+    info: `React app`,
+    info2: '',
+    url: 'https://buscadordeletras.netlify.app',
+    repo: 'https://github.com/thegoodfilm', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'cocktails.png',
+    title: 'All City Cocktails',
+    info: `Full stack project using ExpressJs, NodeJs, Handlebars, MongoDB, Axios, API Rest & Bootstrap made in 1 week for Ironhack bootcamp.`,
+    info2: '',
+    url: 'https://all-city-cocktails.herokuapp.com/',
+    repo: 'https://github.com/SaraPalacioss/project-all-city-cocktails', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Funko.png',
+    title: 'Funko Hollywood Trivial',
+    info: `Front End project made in just 7 days for Ironhack bootcamp and developed with Vanilla JavaScript, DOM manipulation, HTML & CSS.`,
+    info2: '',
+    url: 'https://sarapalacioss.github.io/funko-hollywood-trivial',
+    repo: 'https://github.com/SaraPalacioss/funko-hollywood-trivial', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'film.png',
+    title: 'theGoodFilm',
+    info: `This is my Ironhack final project. It's a full responsive MERN web application make with ReactJs,
+    ExpressJs, NodeJs, MongoDB, Axios, API Rest & Bootstrap.`,
+    info2: '',
+    url: 'https://thegoodfilm.netlify.app/',
+    repo: 'https://github.com/thegoodfilm', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'cocktails.png',
+    title: 'All City Cocktails',
+    info: `Full stack project using ExpressJs, NodeJs, Handlebars, MongoDB, Axios, API Rest & Bootstrap made in 1 week for Ironhack bootcamp.`,
+    info2: '',
+    url: 'https://all-city-cocktails.herokuapp.com/',
+    repo: 'https://github.com/SaraPalacioss/project-all-city-cocktails', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Funko.png',
+    title: 'Funko Hollywood Trivial',
+    info: `Front End project made in just 7 days for Ironhack bootcamp and developed with Vanilla JavaScript, DOM manipulation, HTML & CSS.`,
+    info2: '',
+    url: 'https://sarapalacioss.github.io/funko-hollywood-trivial',
+    repo: 'https://github.com/SaraPalacioss/funko-hollywood-trivial', // if no repo, the button will not show up
+  }
+];
+
 
 // FOOTER DATA
 export const footerData = {
